@@ -70,7 +70,7 @@ header {
   display: inline-block;
 }
 
-.buttons {
+.button1 {
   background: url(https://www.instagram.com/static/sprites/core/71d3e1.png);
   background-repeat: no-repeat;
   background-position: -139px -289px;
@@ -78,6 +78,25 @@ header {
   width: 24px;
   display: inline-block;
   margin-left: 500px;
+}
+
+.button2 {
+  background: url(https://www.instagram.com/static/sprites/core/71d3e1.png);
+  background-repeat: no-repeat;
+  background-position: -79px -338px;
+  height: 24px;
+  width: 24px;
+  display: inline-block;
+  margin-left: 20px;
+}
+.button3 {
+  background: url(https://www.instagram.com/static/sprites/core/71d3e1.png);
+  background-repeat: no-repeat;
+  background-position: -27px -338px;
+  height: 24px;
+  width: 24px;
+  display: inline-block;
+  margin-left: 20px;
 }
 
 
