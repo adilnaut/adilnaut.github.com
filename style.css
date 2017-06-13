@@ -98,6 +98,8 @@ header {
   display: inline-block;
   margin-left: 20px;
 }
-
+#head_container {
+  margin-top: 20px;
+}
 
 /*http://placehold.it/400x400*/
