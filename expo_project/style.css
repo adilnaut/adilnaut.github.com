@@ -1,0 +1,15 @@
+.main{
+			text-align: center;
+			background: url(http://www.expo-boulevard.kz/img/slider/1.jpg); 
+			padding: 300px 0; 
+			background-size: cover;
+			color: white;
+			
+			font-size: 32px;
+			background-attachment: fixed;
+}
+.main h1:hover, .main h3:hover {
+	color: rgb(200,200,200);
+	text-shadow: 3px 3px 3px black; 
+
+}
